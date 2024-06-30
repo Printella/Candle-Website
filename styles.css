@@ -1,0 +1,58 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Specific Styles */
+.price button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.special-offer {
+    background-color: #ffc107;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.testimonials blockquote {
+    background-color: #f9f9f9;
+    border-left: 5px solid #007bff;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.safety ul {
+    margin-left: 20px;
+}
+
+.contact a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
